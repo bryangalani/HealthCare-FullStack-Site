@@ -8,7 +8,7 @@ This site was developed focusing on access levels, there are 5 types of users, b
 
 # Developer Contact
 
-Name: Bryan Stefan Galani Pernambuco
-Email: bryansgalanip@gmail.com 
-LinkedIn: www.linkedin.com/in/bryangalani/
-Country: Brazil
+* Name: Bryan Stefan Galani Pernambuco
+* Email: bryansgalanip@gmail.com 
+* LinkedIn: www.linkedin.com/in/bryangalani/
+* Country: Brazil

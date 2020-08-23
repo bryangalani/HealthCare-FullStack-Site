@@ -14,7 +14,9 @@ This site was developed focusing on access levels, there are 5 types of users, b
 * Country: Brazil
 
 
-# MIT License
+# License
+
+MIT License
 
 Copyright (c) 2020 Bryan Stefan Galani Pernambuco
 

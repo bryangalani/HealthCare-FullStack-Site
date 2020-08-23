@@ -5,3 +5,10 @@ Healthcare Full Stack Site developed in Visual Studio Code using HTML, SCSS -> C
 This site was developed focusing on access levels, there are 5 types of users, being: administrator, doctor, lab, patient, and visitor. Each user has an exclusive profile content with different functionalities, varying from signing up consults, exams, and other users until changing its personal data.
 
 ![Tetris Inventory](/Images/telaIndex.png)
+
+# Developer Contact
+
+Name: Bryan Stefan Galani Pernambuco
+Email: bryansgalanip@gmail.com 
+LinkedIn: www.linkedin.com/in/bryangalani/
+Country: Brazil

@@ -5,6 +5,7 @@ Healthcare Full Stack Site developed in Visual Studio Code using HTML, SCSS -> C
 The Life Plan 2.0 MySQL file, changes the XML by MySQL server.
 
 Video explanning the version 1.0 using XML: https://www.youtube.com/watch?v=Ynxqp21npnc&ab_channel=BryanGalani
+
 Video explanning the version 2.0 using MySQL: https://www.youtube.com/watch?v=kHq7gNUQbIE&ab_channel=BryanGalani
 
 This site was developed focusing on access levels, there are 5 types of users, being: administrator, doctor, lab, patient, and visitor. Each user has an exclusive profile content with different functionalities, varying from signing up consults, exams, and other users until changing its personal data.
